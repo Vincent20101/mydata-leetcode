@@ -22,7 +22,7 @@ import java.util.HashMap;
 
 public class TwoSum {
     public static void main(String[] args) {
-        leetcode.editor.en.TwoSum.Solution solution = new leetcode.editor.en.TwoSum().new Solution();
+        Solution solution = new TwoSum().new Solution();
         int[] nums = {2, 7, 11, 15};
         int target = 9;
         int[] out = solution.twoSum(nums, target);

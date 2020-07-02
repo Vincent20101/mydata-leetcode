@@ -19,6 +19,9 @@ package leetcode.editor.cn;
 import java.util.Arrays;
 import java.util.HashMap;
 
+/**
+ * @author vos
+ */
 public class TwoSum{
     public static void main(String[] args) {
         Solution solution = new TwoSum().new Solution();
